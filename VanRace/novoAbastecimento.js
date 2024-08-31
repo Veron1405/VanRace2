@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     width: '95%',
     alignItems: 'center',
+    justifyContent: 'space-between'
   },
   itemText: {
     color: '#000',
